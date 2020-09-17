@@ -1,1 +1,1 @@
-|||{ "maintenance":false, "serverIp":"127.0.0.1", "version":"1.0.0.0", "setupUrl":"https://www.dropbox.com/s/js0xfkf9t3wz8yk/Setup1.msi?dl=1", "setupSHA":"0aaef5317e8d4af81a64c51ab8b7478ffd85cbb622595d99373df8682adc1c1a" }|||
+{ "maintenance":false, "serverIp":"127.0.0.1", "version":"1.0.0.0", "setupUrl":"https://www.dropbox.com/s/js0xfkf9t3wz8yk/Setup1.msi?dl=1", "setupSHA":"0aaef5317e8d4af81a64c51ab8b7478ffd85cbb622595d99373df8682adc1c1a" }
